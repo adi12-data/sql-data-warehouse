@@ -48,7 +48,7 @@ sql-data-warehouse/
 ├── documents/      # Supporting docs (design notes, ER/data model diagrams)
 ├── LICENSE
 └── README.md
-
+```
 ⚙️ Setup
 
 Clone this repository
