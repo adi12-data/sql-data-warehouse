@@ -49,11 +49,11 @@ sql-data-warehouse/
 ├── LICENSE
 └── README.md
 ```
-⚙️ Setup
+## ⚙️ Setup
 
 Clone this repository
 
-## git clone https://github.com/adi12-data/sql-data-warehouse.git
+git clone https://github.com/adi12-data/sql-data-warehouse.git
 
 Navigate to the folder
 cd sql-data-warehouse
